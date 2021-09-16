@@ -1,0 +1,83 @@
+#body{
+	background-color:#E9ECEF
+}
+
+#head{
+	background-color: #343A40;
+	font-size: 18px;
+	height: 55px;
+	width: 100%;
+	font-weight: bold;
+	position: absolute;
+	left: -0px;
+	top: -0px;
+	margin: 0 auto;
+}
+#head-li{
+	position: relative;
+	top: 19%;
+	left: 9%;
+	color: #F0FFFF;
+	display: inline;
+	padding-left: 4%;
+	
+}
+#head-span{
+	color: #F0FFFF;
+}
+#cygj
+{
+border-radius:25px;
+position: relative;
+top: 80px;
+left:35px;
+background-color: #FFFFFF;
+width: 80%;
+margin: 0 auto;
+}
+
+
+#cygjlifont
+{
+	position: relative;
+	top: 3%;
+	left: 4%;
+}
+#cygjli
+{
+	display: inline;
+    line-height: 30px;
+}
+#menuleft{
+	width: 10%;
+	margin:10px;
+	line-height:38px;
+	position:fixed;
+}
+#logo{
+	width: 80px;
+	border-radius: 15px;
+}
+#daohanghref{
+	font-size: 15px;
+	text-decoration:none
+	
+}
+#daohanghref:visited{
+	color: #343A40;
+}
+#daohanghref:hover{
+	color: #FFFFFF;
+	background-color: coral;
+	border-radius: 3px;
+}
+#daohanghref:link{
+	color: rgb(70, 66, 70);
+}
+#dhdl{
+	position: absolute;
+	top: 70%;
+}
+#dhherf{
+	text-decoration:none;
+}
